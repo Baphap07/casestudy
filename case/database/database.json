@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "productName": "Nike Air Max 90 Essential",
+      "productImage": "img/anh1.jpg",
+      "price": "3,300,000₫",
+      "manufactory": "Manufactory: USA",
+      "size": "Size: 36-44",
+      "id": 1
+    },
+    {
+      "productName": "Nike Air Max 97 Oa",
+      "productImage": "img/anh2.jpg",
+      "price": "3,200,000₫",
+      "manufactory": "Manufactory: Korea",
+      "size": " Size: 36-44",
+      "id": 2
+    },
+    {
+      "productName": "Nike Wmns Air Huarache City Move",
+      "productImage": "img/anh3.jpg",
+      "price": "2,800,000₫",
+      "manufactory": "Manufactory: Korea",
+      "size": "Size: 36-44",
+      "id": 3
+    },
+    {
+      "productName": "Adidas Yeezy boost",
+      "productImage": "img/anh4.jpg",
+      "price": "2,600,000₫",
+      "manufactory": "Manufactory: Korea",
+      "size": "Size :36-44",
+      "id": 4
+    },
+    {
+      "productName": "Nike Air Max 1 Anniversary",
+      "productImage": "img/anh5.jpg",
+      "price": "2,700,000₫",
+      "manufactory": "Manufactory: Korea",
+      "size": "Size: 36-44",
+      "id": 5
+    },
+    {
+      "productName": "Nike Air Presto Off White",
+      "productImage": "img/anh6.jpg",
+      "price": "3,000,000₫",
+      "manufactory": "Manufactory: Korea",
+      "size": "Size :36-44",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "phapphan@codegym.vn",
+      "password": "123456"
+    }
+  ]
+}
